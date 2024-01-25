@@ -11,6 +11,7 @@
 		B7CC53972B62AE5D000861A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7CC53962B62AE5D000861A2 /* ContentView.swift */; };
 		B7CC53992B62AE5F000861A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7CC53982B62AE5F000861A2 /* Assets.xcassets */; };
 		B7CC539C2B62AE5F000861A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7CC539B2B62AE5F000861A2 /* Preview Assets.xcassets */; };
+		B7CC53A32B6305E9000861A2 /* MotionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7CC53A22B6305E9000861A2 /* MotionManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B7CC53962B62AE5D000861A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B7CC53982B62AE5F000861A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7CC539B2B62AE5F000861A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B7CC53A22B6305E9000861A2 /* MotionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				B7CC53942B62AE5D000861A2 /* MotionCardsApp.swift */,
+				B7CC53A22B6305E9000861A2 /* MotionManager.swift */,
 				B7CC53962B62AE5D000861A2 /* ContentView.swift */,
 				B7CC53982B62AE5F000861A2 /* Assets.xcassets */,
 				B7CC539A2B62AE5F000861A2 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7CC53972B62AE5D000861A2 /* ContentView.swift in Sources */,
+				B7CC53A32B6305E9000861A2 /* MotionManager.swift in Sources */,
 				B7CC53952B62AE5D000861A2 /* MotionCardsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
